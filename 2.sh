@@ -1,1 +1,2 @@
-$cat > Newfile.txt
+touch Newfile.txt
+echo "Hello World"
